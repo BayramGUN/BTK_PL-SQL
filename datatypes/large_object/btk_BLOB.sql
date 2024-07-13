@@ -15,7 +15,7 @@ DECLARE
     temp_data       BLOB;
     source_offset   PLS_INTEGER := 1;
     target_offset   PLS_INTEGER := 1;
-    image_file_name varchar2(100) := 'randsda_4';
+    image_file_name varchar2(100) := 'rand_4.png';
     dir_name        varchar2(15) := 'IMAGE_DIR';
 BEGIN
     DBMS_LOB.createtemporary(temp_data, true);
