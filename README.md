@@ -4,4 +4,4 @@ I create sql scripts for PL/SQL.
 
 ## Course Progress
 
-![Course_Progress](https://geps.dev/progress/20?successColor=006600)
+![Course_Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
