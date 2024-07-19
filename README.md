@@ -97,3 +97,4 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
 - [Conditional Control Statements](./conditional_control_statments/notes-conditionals.md)
 - [SQL Language Statements](./sql_language_statements/notes-sls.md)
 - [PL/SQL ITERATIVE CONTROL STATEMENTS (LOOPS & CURSORS)](./iterative_control_statements(loops)/notes_loops.md)
+- [Oracle PL/SQL Cursors](./iterative_control_statements(loops)/cursors/cursors_notes.md)
