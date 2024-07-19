@@ -7,7 +7,7 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
 ## Course Content & My Progress in the Course
 
 > My Progress:  
->>![Course_Progress](https://geps.dev/progress/38?dangerColor=800000&warningColor=ff9900&successColor=006600)
+>>![Course_Progress](https://geps.dev/progress/41?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 1. **Introduction** ✅  
    1.1. Definition of Course  ☑  
@@ -77,9 +77,9 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    8.9. Loops - Which One Should I Use?  ☑  
 
 9. **Cursors** ❌  
-   9.1. Cursor  ☑  
-   9.2. Implicit Cursor For Select  ☐  
-   9.3. Implicit Cursor - Update - Delete  ☐  
+   9.1. Cursor  ☑
+   9.2. Implicit Cursor For Select  ☑
+   9.3. Implicit Cursor - Update - Delete  ☑
    9.4. Explicit Cursors 1  ☐  
    9.5. Explicit Cursor - Control Statements  ☐  
    9.6. Cursors and Records DataType  ☐  
