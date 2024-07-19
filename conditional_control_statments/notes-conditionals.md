@@ -22,14 +22,14 @@ Usage of **if** keyword as a conditional control statement in PL/SQL.
 
 ### IF THEN
 
-```sql
+``` sql
 IF <condition_1> THEN <statements_1>
 END IF;
 ```
 
 ### IF THEN ELSE
 
-```sql
+``` sql
 IF <condition_1> THEN <statements_1>
 ELSE                  <statements_2>
 END IF;
@@ -37,7 +37,7 @@ END IF;
 
 ### IF THEN ELSEIF
 
-```sql
+``` sql
 IF <condition_1> THEN <statements_1>
 ELSEIF                <statements_2>
 ELSEIF                <statements_3>
