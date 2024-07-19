@@ -1,4 +1,4 @@
-# APPLY PL/SQL COURSE ON BTK ACADEMY
+# BTK ACADEMY PL/SQL COURSE APPLICATIONS
 
 I create PL/SQL programs for with BTK Academy PL/SQL, Oracle Database Programming Course.
 
