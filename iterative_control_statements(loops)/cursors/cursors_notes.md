@@ -25,7 +25,7 @@ Cursors are memory areas in which Oracle executes SQL statements.
 
 An explicit cursor is declared in the `DECLARE` section of a PL/SQL block.
 
-```plsql
+```sql
 CURSOR cursor_name IS
     SELECT_statement;
 ```
@@ -34,7 +34,7 @@ CURSOR cursor_name IS
 
 The cursor must be opened before fetching rows.
 
-```plsql
+```sql
 OPEN cursor_name;
 ```
 
@@ -42,7 +42,7 @@ OPEN cursor_name;
 
 Fetch rows from the cursor one at a time using the `FETCH` statement.
 
-```plsql
+```sql
 FETCH cursor_name INTO variable_list;
 ```
 
@@ -52,13 +52,13 @@ You can also use a `FETCH` statement inside a `LOOP` to iterate over all rows.
 
 After fetching all necessary rows, the cursor should be closed to free resources.
 
-```plsql
+```sql
 CLOSE cursor_name;
 ```
 
 ## Example of Using an Explicit Cursor
 
-```plsql
+```sql
 DECLARE
     CURSOR emp_cursor IS
         SELECT emp_id, emp_name FROM employees WHERE department_id = 10;
@@ -84,7 +84,7 @@ END;
 - **Cursor Attributes**: `cursor_name%FOUND`, `cursor_name%NOTFOUND`, `cursor_name%ROWCOUNT`, and `cursor_name%ISOPEN` provide information about the cursor's state and operations.
 - **Cursor FOR Loop**: A more concise way to handle cursors, which automatically opens, fetches, and closes the cursor.
 
-```plsql
+```sql
 FOR record IN (SELECT emp_id, emp_name FROM employees WHERE department_id = 10) LOOP
     DBMS_OUTPUT.PUT_LINE('Employee ID: ' || record.emp_id || ', Employee Name: ' || record.emp_name);
 END LOOP;
