@@ -13,7 +13,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    1.1. ☑ Definition of Course
    1.2. ☑ Intro
    1.3. ☑ General Information
-
 2. **Database Setup** ✅
    2.1. ☑ Preliminary Checks
    2.2. ☑ Download Setup File
@@ -22,11 +21,9 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    2.5. ☑ Create and Config Database2
    2.6. ☑ Db Post-installation checks1
    2.7. ☑ Db Post-installation checks2
-
 3. **Connection Tools** ✅
    3.1. ☑ DB Connection Tools SQLPlus
    3.2. ☑ SQL Developer
-
 4. **PL/SQL Block Structure and Types** ✅
    4.1. ☑ PL/SQL Block Structure and Types
    4.2. ☑ First PL/SQL Program
@@ -35,7 +32,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    4.5. ☑ Summary of Exceptions
    4.6. ☑ Exception Example1
    4.7. ☑ Exception Example 2
-
 5. **Data Types** ✅
    5.1. ☑ Data Types
    5.2. ☑ Char - Varchar2
@@ -47,7 +43,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    5.8. ☑ Large Object Data Types (LOB)
    5.9. ☑ BLOB - Image Application 1
    5.10. ☑ BLOB - Image Application 2
-
 6. **Static and Dynamic SQL within PL/SQL** ✅
    6.1. ☑ Static - Dynamic SQL in PL/SQL
    6.2. ☑ Static SQL in PL/SQL 1
@@ -56,7 +51,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    6.5. ☑ Dynamic SQL in PL/SQL 1
    6.6. ☑ Dynamic SQL in PL/SQL 2
    6.7. ☑ Sequence in PL/SQL 2
-
 7. **Conditional Controls (If - Case)** ✅
    7.1. ☑ Conditional Control
    7.2. ☑ If 1
@@ -64,7 +58,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    7.4. ☑ Searched Case
    7.5. ☑ Simple Case
    7.6. ☑ Simple Case
-
 8. **Iterative Controls** ✅
    8.1. ☑ Iterative Controls - Loops
    8.2. ☑ Basic Loop 1
@@ -75,7 +68,6 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    8.7. ☑ For Loop 3
    8.8. ☑ While Loop
    8.9. ☑ Loops - Which One Should I Use?
-
 9. **Cursors** ❌
    9.1. ☑ Cursor
    9.2. ☐ Implicit Cursor For Select
