@@ -1,4 +1,4 @@
-# APPLY PL/SQL COURSE ON BTK ACADEMY
+# BTK ACADEMY PL/SQL COURSE APPLICATIONS
 
 I create PL/SQL programs for with BTK Academy PL/SQL, Oracle Database Programming Course.
 
@@ -77,9 +77,9 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    8.9. Loops - Which One Should I Use?  ☑  
 
 9. **Cursors** ❌  
-   9.1. Cursor  ☑
-   9.2. Implicit Cursor For Select  ☑
-   9.3. Implicit Cursor - Update - Delete  ☑
+   9.1. Cursor  ☑  
+   9.2. Implicit Cursor For Select  ☑  
+   9.3. Implicit Cursor - Update - Delete  ☑  
    9.4. Explicit Cursors 1  ☐  
    9.5. Explicit Cursor - Control Statements  ☐  
    9.6. Cursors and Records DataType  ☐  
