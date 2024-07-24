@@ -92,6 +92,89 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    9.13. Parameterized Nested Cursor 3  ☐  
    9.14. Sys Ref Cursors  ☐  
 
+10. **Composite Data Types - Collections** ❌  
+   10.1 Composite Data Types - Introduction to Collections ☐  
+   10.2 Assoc Array Index By Tables 1 ☐  
+   10.3 Assoc Array Index By Tables 2 ☐  
+   10.4 Assoc Array Index By Tables 3 ☐  
+   10.5 Nested Tables 1 ☐  
+   10.6 Nested Tables 2 ☐  
+   10.7 Nested Tables 3 ☐  
+   10.8 Varray 1 ☐  
+   10.9 Varray 2 ☐  
+   10.10 Differences 1 ☐  
+   10.11 Differences 2 ☐  
+
+11. **Collection Methods** ❌  
+  11.1 Collection Methods - Introduction ☐  
+  11.2 Delete Method ☐  
+  11.3 Trim Method ☐  
+  11.4 Extend Method ☐  
+  11.5 Exists Method ☐  
+  11.6 First - Last - Count - Limit 1 ☐  
+  11.7 First - Last - Count - Limit 2 ☐  
+  11.8 Prior - Next ☐  
+
+12. **Record Data Types** ❌  
+  12.1 Record Data Types - Introduction ☐  
+  12.2 Table Based Records ☐  
+  12.3 Cursor Based Records ☐  
+  12.4 Developer Defined Records 1 ☐  
+  12.5 Developer Defined Records 2 ☐  
+  12.6 Developer Defined Records 3 ☐  
+  12.7 Developer Defined Records 4 ☐  
+
+13. **Exceptions - Exception Handling** ❌  
+  13.1 Exceptions - Exception Handling - Introduction ☐  
+  13.2 Internally Defined Exceptions 1 ☐  
+  13.3 Internally Defined Exceptions 2 ☐  
+  13.4 Internally Defined Exceptions 3 ☐  
+  13.5 PreDefined Exceptions 1 ☐  
+  13.6 PreDefined Exceptions 2 ☐  
+  13.7 UserDefined Exceptions 1 ☐  
+  13.8 UserDefined Exceptions 2 ☐  
+
+14. **Subprograms** ❌  
+  13.1 Subprograms ☐  
+
+15. **Procedures** ❌  
+  15.1 Procedures ☐  
+  15.2 Nested Procedures 1 ☐  
+  15.3 Nested Procedures 2 ☐  
+  15.4 Nested Procedures with Parameters ☐  
+  15.5 Nested Procedures In - OUT -INOUT ☐  
+  15.6 Nested Procedure Parameter Passing Methods ☐  
+  15.7 Standalone Stored Procedures 1 ☐  
+  15.8 Standalone Stored Procedures 2 ☐  
+  15.9 Standalone Stored Procedures 3 ☐  
+  15.10 Name Notation - Default - Drop Procedure ☐  
+  15.11 Standalone Stored Procedures 4 ☐  
+  15.12 Standalone Procedures 5 ☐  
+
+16. **Functions** ❌  
+  16.1 Functions 1 ☐  
+  16.2 Nested Functions 1 ☐  
+  16.3 Nested Functions 2 ☐  
+  16.4 Standalone Function 1 ☐  
+  16.5 Standalone Function 2 ☐  
+
+17. **Packages** ❌  
+  17.1 Packages ☐  
+  17.2 Create Package Specification ☐  
+  17.3 Usage of Package Objects ☐  
+  17.4 Package Body Procedure ☐  
+  17.5 Package Body Function ☐  
+
+18. **Triggers** ❌  
+  18.1 Triggers ☐  
+  18.2 Table Level Trigger 1 ☐  
+  18.3 Table Level Trigger 2 ☐  
+  18.4 Table Audit Trigger 1 ☐  
+  18.5 Table Audit Trigger 2 ☐  
+  18.6 Table Audit Trigger - Test ☐  
+  18.7 Logon Logoff Audit Trigger 1 ☐  
+  18.8 Logon Logoff Audit Trigger 2 ☐  
+
 ## My Notes
 
 - [Conditional Control Statements](./conditional_control_statments/notes-conditionals.md)
