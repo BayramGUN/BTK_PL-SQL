@@ -7,7 +7,7 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
 ## Course Content & My Progress in the Course
 
 > My Progress:  
->>![Course_Progress](https://geps.dev/progress/41?dangerColor=800000&warningColor=ff9900&successColor=006600)
+>>![Course_Progress](https://geps.dev/progress/47?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 1. **Introduction** ✅  
    1.1. Definition of Course  ☑  
@@ -80,14 +80,14 @@ Thanks a lot to [Mehmet Hanifi Çelebioğlu](https://www.btkakademi.gov.tr/porta
    9.1. Cursor  ☑  
    9.2. Implicit Cursor For Select  ☑  
    9.3. Implicit Cursor - Update - Delete  ☑  
-   9.4. Explicit Cursors 1  ☐  
-   9.5. Explicit Cursor - Control Statements  ☐  
-   9.6. Cursors and Records DataType  ☐  
-   9.7. Cursors and For Loops 1  ☐  
-   9.8. Cursors and For Loops 2  ☐  
-   9.9. For Update and Where Current of Cursor  ☐  
-   9.10. Parameterized Cursor 1  ☐  
-   9.11. Parameterized and Nested Cursors  ☐  
+   9.4. Explicit Cursors 1  ☑  
+   9.5. Explicit Cursor - Control Statements  ☑  
+   9.6. Cursors and Records DataType  ☑  
+   9.7. Cursors and For Loops 1  ☑  
+   9.8. Cursors and For Loops 2  ☑  
+   9.9. For Update and Where Current of Cursor  ☑  
+   9.10. Parameterized Cursor 1  ☑  
+   9.11. Parameterized and Nested Cursors  ☑  
    9.12. Parameterized Nested Cursor 2  ☐  
    9.13. Parameterized Nested Cursor 3  ☐  
    9.14. Sys Ref Cursors  ☐  
